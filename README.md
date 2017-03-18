@@ -3,17 +3,24 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Callback Functions
-	* Closure
-	* arguments array
-	* recursion
-	* prototype
-	* constructors
+
+	* Callback Functions:  
+	    A Callback Function is a function that calls another function within it.
+	* Closure:  
+	    A Closure is a function that returns another function.
+	* arguments array:  
+	    arguments is a pseudo-array contained in every function that stores all the arguments passed to the function.
+	* recursion:  
+	    A recursive function creates a return value by calling itself until it reaches its base case, where a value is returned.
+	* prototype:  
+	    Every object in JavaScript contains a prototype which can hold functions and values that instantiations of the object can use.
+	* constructors:  
+	    Constructors in JavaScript are functions that can be used to instantiate a new instance of an object.
+
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* git status
 	* git add --all
 	* git status
